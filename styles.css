@@ -1,12 +1,10 @@
-@media only screen and (max-width: 480px) {
-    /* Style général */
+/* Style général */
 body {
 font-family:Verdana, Geneva, Tahoma, sans-serif;
 background-color: lightyellow;
 margin: 0;
 padding: 0;
 box-sizing: border-box;
-}
 }
 /* Style de la bannière */
 .banner {
@@ -50,7 +48,6 @@ color: darkblue;
 text-decoration: none;
 background-color: lightyellow;
 }
-@media only screen and (max-width: 480px) {
 .Logo{
 display: flex;
 justify-content: center;
@@ -66,7 +63,6 @@ animation: agrandir 5s infinite alternate; /* Animation de 5 secondes */
     100% {
         transform: scale(1.125); /* Image agrandie */
     }
-}
 }
 .Title{
 text-align: center;
