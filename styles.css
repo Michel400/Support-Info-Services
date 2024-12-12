@@ -1,4 +1,5 @@
-/* Style général */
+@media only screen and (max-width: 767px) {
+    /* Style général */
 body {
 font-family:Verdana, Geneva, Tahoma, sans-serif;
 background-color: lightyellow;
@@ -182,4 +183,4 @@ margin: 0;
 .mentions{
 text-align: justify;
 margin: 20px;
-}
+}}
