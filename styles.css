@@ -236,7 +236,7 @@ margin: 20px;
 
     .iframe {
         display: block;
-        margin: right 50%; ;
+        margin: right 100%;
         max-width: 50%; 
     }
     .misenform {
@@ -259,8 +259,8 @@ margin: 20px;
         font-size: 70%; 
     }
     .bannerend-content{
-        width: 100%;  
-        height: 100%;
+        width: 8px;  
+        height: 8px;
         position: relative;
         
     }
