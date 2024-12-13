@@ -193,7 +193,7 @@ margin: 20px;
     }
 
     .Logo {
-        width: 70%;
+        width: 50%;
         margin-left: 20px;
 
     }
@@ -208,6 +208,9 @@ margin: 20px;
         margin: 0 auto; 
     }
     
+    .Title {
+        margin-left: 10px;
+    }
     .cadre {
         width: 90%; 
         margin-left: 5px;
@@ -215,7 +218,7 @@ margin: 20px;
     }
 
     .iframe {
-        width: 30%;
+        width: 20%;
         margin-left: 10px;
         margin-right: 10px;
 
