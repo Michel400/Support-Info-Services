@@ -240,7 +240,7 @@ margin: 20px;
         margin-right: 5px;
     }
     .content-cadre {
-        width:90vw;
+        max-width:100%;
         align-items: center;
     }   
     .iframe {
