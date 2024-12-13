@@ -199,13 +199,12 @@ margin: 20px;
     }
 
     .Logo {
-        width: 80%; 
-        max-width: 768px; 
+        width: 80%;  
         margin: 0 auto; 
       }
       
       img {
-        width: 100%;
+        width: 50%;
         height: auto;
     }
 
