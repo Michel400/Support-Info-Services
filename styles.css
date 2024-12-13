@@ -139,6 +139,11 @@ margin-bottom: 50px;
 margin-left: 100px;
 margin-right: 100px;
 }
+.iframe {
+    width: 100%;          
+    height: auto;         
+    border: none;         
+}
 .textarea{
 resize: none
 }
