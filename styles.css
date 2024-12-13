@@ -259,17 +259,15 @@ margin: 20px;
         font-size: 70%; 
     }
     .bannerend-content{
-        width: 10%;  
-        height: 10%;
+        width: 8px;  
+        height: 8px;
         position: relative;
         
     }
     .bannerend-image {
       position: absolute;
-      top: 0;
-      top: 0;
-      width: 10px;
-      height: 10px; 
+      width: 8px;
+      height: 8px; 
       margin-right: 5px;
         
     }
