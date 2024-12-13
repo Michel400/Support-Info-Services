@@ -199,11 +199,14 @@ margin: 20px;
     }
 
     .Logo {
-        width: 100% !important;
-        max-width: 50vw !important; 
-        height: auto;        
-        display: block;      
-        margin: 0 auto;    
+        width: 80%; 
+        max-width: 768px; 
+        margin: 0 auto; 
+      }
+      
+      img {
+        width: 100%;
+        height: auto;
     }
 
     .content-boxes {
