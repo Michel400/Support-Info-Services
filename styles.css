@@ -237,7 +237,7 @@ margin: 20px;
     .iframe {
         display: block;
         margin: right 100%;
-        max-width: 50%; 
+        height: 200px;
     }
     .misenform {
         width: 90%;
