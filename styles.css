@@ -183,8 +183,8 @@ margin: 0;
 text-align: justify;
 margin: 20px;
 }
-/* Media Queries (smartphones) */
-@media (max-width: 768px) {
+/* Media Queries (smartphones portait) */
+@media (max-width: 480px) {
     .navbar ul { 
         flex-direction: column; 
         align-items: center; 
@@ -199,7 +199,7 @@ margin: 20px;
 
     .content-boxes {
         flex-direction: column; 
-        gap: 30px; 
+        gap: 10px; 
     }
 
     .box {
@@ -217,7 +217,7 @@ margin: 20px;
     }
 
     .iframe {
-        height: 100px;
+        height: 80px;
         margin-left: 10px;
         margin-right: 10px;
 
