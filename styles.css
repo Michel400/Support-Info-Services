@@ -223,10 +223,9 @@ margin: 20px;
     }
 
     .iframe {
-        height: 80px;
-        margin-left: 10px;
-        margin-right: 10px;
-
+        display: block;
+        margin: 0 auto;  
+        max-width: 100%; 
     }
     .misenform {
         margin-left: auto;
