@@ -221,6 +221,8 @@ margin: 20px;
 
     }
     .misenform {
+        margin-left: auto;
+        margin-right: 5px;
         width: 90%;
     }
     .formulaire {
