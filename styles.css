@@ -185,6 +185,12 @@ margin: 20px;
 }
 /* Media Queries (smartphones) */
 @media (max-width: 768px) {
+    html, body {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
     .navbar ul { 
         flex-direction: column; 
         align-items: center; 
