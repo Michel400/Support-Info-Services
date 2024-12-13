@@ -127,6 +127,10 @@ align-items: center;
 justify-content: center;
 }
 .cadre {
+display: flex;           
+justify-content: center; 
+align-items: center;      
+height: 100vh;  
 background-color: lightyellow;
 padding: 20px;
 border: 3px solid blue;
@@ -140,12 +144,9 @@ margin-left: 100px;
 margin-right: 100px;
 }
 .iframe {
-width: 400px;
-height: auto;
-max-width: 100%;
-display: block;
-margin-left: 50%;
-margin-right: auto;
+width: 400px;    
+height: auto;            
+max-width: 100%; 
 }
 .textarea{
 resize: none
