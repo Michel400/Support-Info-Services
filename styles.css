@@ -189,9 +189,11 @@ margin: 20px;
         flex-direction: column; 
         align-items: center; 
         margin-left: auto;
+        margin-right: auto;
     }
 
     .Logo {
+        width: 90%;
         margin-left: 20px;
 
     }
@@ -208,8 +210,8 @@ margin: 20px;
     
     .cadre {
         width: 90%; 
-        margin-left: 20px;
-        margin-right: 20px;
+        margin-left: 5px;
+        margin-right: 5px;
     }
 
     .iframe {
@@ -226,7 +228,7 @@ margin: 20px;
     }
 
     .textarea {
-        width: 70%;
+        width: 90%;
     }
 
     .Title, .Prestations, .A_propos, .Contacter {
