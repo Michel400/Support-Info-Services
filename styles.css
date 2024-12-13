@@ -171,6 +171,8 @@ display:flex;
 }
 /* Image dans la bannière de fin*/
 .bannerend-image {
+width: 15px; 
+height: 15px;
 float: left;
 margin-right: 10px;
 }
