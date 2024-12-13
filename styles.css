@@ -194,7 +194,6 @@ margin: 20px;
 
     .Logo {
         width: 50%;
-        margin-left: 20px;
 
     }
 
@@ -218,7 +217,7 @@ margin: 20px;
     }
 
     .iframe {
-        height: 200px;
+        height: 100px;
         margin-left: 10px;
         margin-right: 10px;
 
