@@ -185,7 +185,7 @@ margin: 20px;
 }
 /* Media Queries (smartphones) */
 @media (max-width: 768px) {
-    .navbar ul {
+    .navbar ul { 
         flex-direction: column; 
         align-items: center; 
     }
@@ -204,7 +204,11 @@ margin: 20px;
         width: 90%; 
         margin: 0 auto; 
     }
-
+    .content-cadre{
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+    }
     .cadre {
         width: 90%; 
         margin-left: 20px;
