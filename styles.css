@@ -144,8 +144,8 @@ width: 400px;
 height: auto;
 max-width: 100%;
 display: block;
-align-items: center;
-justify-content: center;
+margin-left: 50%;
+margin-right: 50%;
 }
 .textarea{
 resize: none
