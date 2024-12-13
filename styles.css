@@ -144,6 +144,7 @@ width: 400px;
 height: auto;
 max-width: 100%;
 display: block;
+align-items: center;
 justify-content: center;
 }
 .textarea{
@@ -247,11 +248,11 @@ margin: 20px;
     }
     .misenform {
         width: 90%;
-        margin-left: auto;
+        margin-left: 30%;
     }
     .formulaire {
         width: 90%;
-        margin-left: auto;
+        margin-left: 30%;
     }
 
     .textarea {
