@@ -183,8 +183,8 @@ margin: 0;
 text-align: justify;
 margin: 20px;
 }
-/* Media Queries (smartphones portait) */
-@media (max-width: 480px) {
+/* Media Queries (smartphones) */
+@media (max-width: 768px) {
     .navbar ul { 
         flex-direction: column; 
         align-items: center; 
