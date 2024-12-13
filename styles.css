@@ -200,11 +200,12 @@ margin: 20px;
 
     .Logo {
         width: 80%;  
-        margin: 0 auto; 
+        margin: 0 auto;
+        padding: 0%; 
       }
       
       img {
-        width: 50%;
+        width: 50vw;
         height: auto;
     }
 
