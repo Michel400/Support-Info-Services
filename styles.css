@@ -183,3 +183,44 @@ margin: 0;
 text-align: justify;
 margin: 20px;
 }
+/* Media Queries (smartphones) */
+@media (max-width: 768px) {
+    .navbar ul {
+        flex-direction: column; 
+        align-items: center; 
+    }
+
+    .Logo {
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+
+    .content-boxes {
+        flex-direction: column; 
+        gap: 30px; 
+    }
+
+    .box {
+        width: 90%; 
+        margin: 0 auto; 
+    }
+
+    .cadre {
+        width: 90%; 
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .formulaire {
+        width: 80%; 
+    }
+
+    .Title, .Prestations, .A_propos, .Contacter {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+
+    .banner-title {
+        font-size: 70%; 
+    }
+}
