@@ -239,7 +239,10 @@ margin: 20px;
         margin-left: 5px;
         margin-right: 5px;
     }
-
+    .content-cadre {
+        flex-direction: column;
+        align-items: center;
+    }   
     .iframe {
     width: 90%;  
     max-width: 100%;  
