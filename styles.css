@@ -126,11 +126,7 @@ display: flex;
 align-items: center;
 justify-content: center;
 }
-.cadre {
-display: flex;           
-justify-content: center; 
-align-items: center;      
-height: 100vh;  
+.cadre {  
 background-color: lightyellow;
 padding: 20px;
 border: 3px solid blue;
