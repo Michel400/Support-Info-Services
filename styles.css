@@ -143,6 +143,7 @@ margin-right: 100px;
 width: 400px;    
 height: auto;            
 max-width: 100%; 
+padding: 20%;
 }
 .textarea{
 resize: none
