@@ -167,17 +167,13 @@ padding: 10px;
 color: black;
 }
 .bannerend-content {
-width: 10%;
-height: 100vh;
-position: relative;
+display:flex;
 }
 /* Image dans la bannière de fin*/
-.bannerend-image {
-position:absolute;
-top:0;
-left:0;
-width: 15px;
-height: 15px;
+
+.bannerend-image{
+    float: left;
+    margin-right: 10px;   
 }
 /* Titre de la bannière de fin */
 .bannerend-title {
