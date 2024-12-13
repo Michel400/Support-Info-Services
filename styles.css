@@ -240,7 +240,7 @@ margin: 20px;
         margin-right: 5px;
     }
     .content-cadre {
-        flex-direction: column;
+        width:90vw;
         align-items: center;
     }   
     .iframe {
